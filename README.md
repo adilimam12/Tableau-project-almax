@@ -2,7 +2,8 @@
 **Project Title**
 
 
-[15551717602824.pdf](https://github.com/adilimam12/Tableau-project-almax/files/11635825/15551717602824.pdf)
+
+![15551717602824](https://github.com/adilimam12/Tableau-project-almax/assets/113783902/00f1eb74-7326-4cf4-9d80-105f47501056)
 
 Play Store App Review Analysis
 
